@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Choose Your Way",
+  "base_artist": "胡桃のあ",
+  "createdAt": "2026-02-17T04:58:06.220052Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Choose Your Way",
+      "artist": "胡桃のあ",
+      "has_synced": false,
+      "path": "select/pl_01_Choose_Your_Way_胡桃のあ.txt"
+    }
+  ]
+}
